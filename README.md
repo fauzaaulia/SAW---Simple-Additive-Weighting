@@ -3,8 +3,10 @@ This repository was made to complete the task of Decision Support Systems Using 
 
 
 ## Biodata
-| Name   | Ahmad Fauza Aulia |
-| NIM    | 4611417038        |
+|#     |                 |
+|------|-----------------|
+|Name  |Ahmad Fauza Aulia|
+|NIM   |4611417038       |
 
 
 ## Details
